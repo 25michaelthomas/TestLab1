@@ -1,0 +1,14 @@
+C:\Users\moist\Desktop\VSC\bin\Debug\net8.0\VSC.exe
+C:\Users\moist\Desktop\VSC\bin\Debug\net8.0\VSC.deps.json
+C:\Users\moist\Desktop\VSC\bin\Debug\net8.0\VSC.runtimeconfig.json
+C:\Users\moist\Desktop\VSC\bin\Debug\net8.0\VSC.dll
+C:\Users\moist\Desktop\VSC\bin\Debug\net8.0\VSC.pdb
+C:\Users\moist\Desktop\VSC\obj\Debug\net8.0\VSC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moist\Desktop\VSC\obj\Debug\net8.0\VSC.AssemblyInfoInputs.cache
+C:\Users\moist\Desktop\VSC\obj\Debug\net8.0\VSC.AssemblyInfo.cs
+C:\Users\moist\Desktop\VSC\obj\Debug\net8.0\VSC.csproj.CoreCompileInputs.cache
+C:\Users\moist\Desktop\VSC\obj\Debug\net8.0\VSC.dll
+C:\Users\moist\Desktop\VSC\obj\Debug\net8.0\refint\VSC.dll
+C:\Users\moist\Desktop\VSC\obj\Debug\net8.0\VSC.pdb
+C:\Users\moist\Desktop\VSC\obj\Debug\net8.0\VSC.genruntimeconfig.cache
+C:\Users\moist\Desktop\VSC\obj\Debug\net8.0\ref\VSC.dll
